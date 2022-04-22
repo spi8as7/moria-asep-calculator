@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ΥΠΟΛΟΓΙΣΜΩΝ ΜΟΡΙΩΝ ΑΣΕΠ</string>
+    <string-array name="descpritions">
+        <item>Βαθμός πτυχίου</item>
+        <item>Δεύτερο πτυχίο</item>
+        <item>Διδακτορικό</item>
+        <item>Μεταπτυχιακό</item>
+        <item>Ξένες Γλώσσες</item>
+        <item>H/Y</item>
+        <item>Επιμόρφωση</item>
+        <item>Προϋπηρεσία</item>
+        <item>Προϋπηρεσία σε δυσπρόσιτες σχολικές μονάδες</item>
+        <item>Συμβάσεις εργασίας ιδιωτικού δικαίου 3μηνης διάρκειας</item>
+        <item>Αριθμός Τέκνων</item>
+        <item>Βαθμός Αναπηρίας</item>
+    </string-array>
+
+    <string-array name="master">
+        <item>0</item>
+        <item>1</item>
+        <item>2+</item>
+    </string-array>
+
+    <string-array name="language">
+        <item>Άριστη</item>
+        <item>Πολύ Καλή</item>
+        <item>Καλή</item>
+        <item>Ανεπαρκής</item>
+    </string-array>
+</resources>
